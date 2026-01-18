@@ -45,10 +45,24 @@ Secure environment variable handling using .env
 📊 Dataset
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-This project uses the Telco Customer Churn dataset, which represents customer behavior in a telecommunications company.  
-It includes demographic information, service usage, contract details, billing data, and a churn indicator.
+This project uses the Telco Customer Churn dataset, a publicly available, real-world–inspired dataset that simulates customer behavior in a telecommunications company.
 
-The dataset is publicly available and commonly used for churn prediction research and applied machine learning projects.
+🔗 Dataset Source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Dataset highlights:
+
+~7,000 customer records
+
+Combination of categorical and numerical features
+
+Customer demographics, service usage, contract details, and billing data
+
+Target variable: Churn (Yes / No)
+
+Realistic class imbalance, suitable for applied machine learning
+
+The dataset is widely used for churn prediction research and is ideal for demonstrating probability-based modeling, cost-sensitive decision-making, and explainable AI.
 
 🛠️ Tech Stack I Used
 ----------------------------------------------------------------------------------------------------------------------------------------
