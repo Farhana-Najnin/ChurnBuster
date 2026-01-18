@@ -101,20 +101,20 @@ Inspect top churn candidates in real time
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Customer Churn Dataset (CSV)
-↓
-Data Cleaning & Feature Encoding
-↓
-XGBoost Churn Prediction Model
-↓
-Probability Estimation
-↓
-Cost-Based Threshold Optimization
-↓
-Explainability with SHAP
-↓
-Streamlit Dashboard
-↓
-Public Access via Ngrok
+ →
+ Data Cleaning & Feature Encoding
+ →
+ XGBoost Churn Prediction Model
+ →
+ Probability Estimation
+ →
+ Cost-Based Threshold Optimization
+ →
+ Explainability with SHAP
+ →
+ Streamlit Dashboard
+ →
+ Public Access via Ngrok
 
 🚀 Where I See It Being Useful
 ----------------------------------------------------------------------------------------------------------------------------------------
