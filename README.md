@@ -42,6 +42,14 @@ Publicly accessible deployment via Ngrok
 
 Secure environment variable handling using .env
 
+📊 Dataset
+----------------------------------------------------------------------------------------------------------------------------------------
+
+This project uses the Telco Customer Churn dataset, which represents customer behavior in a telecommunications company.  
+It includes demographic information, service usage, contract details, billing data, and a churn indicator.
+
+The dataset is publicly available and commonly used for churn prediction research and applied machine learning projects.
+
 🛠️ Tech Stack I Used
 ----------------------------------------------------------------------------------------------------------------------------------------
 
